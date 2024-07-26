@@ -35,7 +35,7 @@
 
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
-[Flask](https://github.com/Aranchev/Resources/blob/main/README.md#flask-arrow_up)
+[Flask](https://github.com/Aranchev/Resources/tree/main/README.md#flask)
 
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
