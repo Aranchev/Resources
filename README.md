@@ -7,7 +7,7 @@
 [Python](https://github.com/Aranchev/Resources/tree/main?tab=readme-ov-file#python)
 
 Others
-> [Cheatsheets](https://github.com/Aranchev/Resources/edit/main/README.md#cheatsheets-arrow_up)
+> [Cheatsheets](https://github.com/Aranchev/Resources/tree/main/README.md#cheatsheets-arrow_up)
 
 > [Other's Resources](https://github.com/Aranchev/Resources/tree/main/README.md#others-resources-arrow_up)
 
