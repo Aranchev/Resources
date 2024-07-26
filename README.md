@@ -3,7 +3,7 @@
 
 ><a href='https://github.com/k1lgor/SoftUni'>Softuni</a>
 
-<a href='https://github.com/Aranchev/Resources/edit/main/README.md#python'>Python</a>
+<a href='https://github.com/Aranchev/Resources/tree/main?tab=readme-ov-file#python'>Python</a>
 
 
 # Python 
