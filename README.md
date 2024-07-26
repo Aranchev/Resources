@@ -70,6 +70,16 @@
 
 :page_facing_up: [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet/)
 
+:page_facing_up: [HTML CheatSheat](https://htmlcheatsheet.com/)
+
+📘 [HTML Documentation for Beginners](https://html.com/)
+
+:cd::floppy_disk: [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
+
+:movie_camera::cd: [HTML Tutorials For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
+
+[HTML5 Please](https://html5please.com/)
+
 ## Python [:arrow_up:](#index)
 
 :spider_web: <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
