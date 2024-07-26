@@ -4,7 +4,7 @@
 
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
-[Python](https://github.com/Aranchev/Resources/edit/main/README.md#python-arrow_up)
+[Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
 Others
 > [Cheatsheets](https://github.com/Aranchev/Resources/tree/main/README.md#cheatsheets-arrow_up)
