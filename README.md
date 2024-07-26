@@ -5,9 +5,9 @@
 
 <a name="index"></a>
 
-<a href='https://github.com/Aranchev/Resources/tree/main?tab=readme-ov-file#python'>Python</a>
-
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
+
+[Python](https://github.com/Aranchev/Resources/tree/main?tab=readme-ov-file#python)
 
 ## Python [:arrow_up:](#index)
 <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
