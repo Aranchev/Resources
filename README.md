@@ -7,7 +7,7 @@
 
 <a href='https://github.com/Aranchev/Resources/tree/main?tab=readme-ov-file#python'>Python</a>
 
-[😊](#index)
+[:arrow_up:](#index)
 
 # Python 
 <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
