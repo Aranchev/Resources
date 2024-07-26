@@ -41,6 +41,10 @@ Others
 
 :spider_web: <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
 
+:blue_book: <a href="https://docs.python.org/3/index.html">Python 3.12.4 documentation</a>
+
+- <a href="https://docs.python.org/3/library/functions.html">Built-in Functions</a>
+
 :spider_web: <a href="https://www.fullstackpython.com/">Full Stack Python</a>
 
 :book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a>
