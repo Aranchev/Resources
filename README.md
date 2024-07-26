@@ -1,3 +1,11 @@
+# Recently Used
+
+:book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a>
+
+:book: <a href ="https://python-book.softuni.bg/">Основи на програмирането с Python</a>
+
+:man_student: <a href='https://github.com/k1lgor/SoftUni'>k1gor Softuni</a>
+
 # Index
 
 <a name="index"></a>
@@ -13,7 +21,12 @@ Others
 
 ---
 # Legend
+
+:book: - Book
+
 :page_facing_up: - Cheatsheet
+
+:man_student: - Course
 
 :blue_book: - Documentation
 
@@ -27,7 +40,9 @@ Others
 
 :spider_web: <a href="https://www.fullstackpython.com/">Full Stack Python</a>
 
-> :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
+:book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a>
+
+:spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
 
 ## Github [:arrow_up:](#index)
 
