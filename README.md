@@ -6,6 +6,22 @@
 
 :man_student: <a href='https://github.com/k1lgor/SoftUni'>k1gor Softuni</a>
 
+---
+
+# Legend
+
+:book: - Book
+
+:page_facing_up: - Cheatsheet
+
+:man_student: - Course
+
+:blue_book: - Documentation
+
+:spider_web: - Web Site
+
+---
+
 # Index
 
 <a name="index"></a>
@@ -18,19 +34,6 @@ Others
 > [Cheatsheets](https://github.com/Aranchev/Resources/tree/main/README.md#cheatsheets-arrow_up)
 
 > [Other's Resources](https://github.com/Aranchev/Resources/tree/main/README.md#others-resources-arrow_up)
-
----
-# Legend
-
-:book: - Book
-
-:page_facing_up: - Cheatsheet
-
-:man_student: - Course
-
-:blue_book: - Documentation
-
-:spider_web: - Web Site
 
 ---
 
