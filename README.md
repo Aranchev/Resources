@@ -39,6 +39,8 @@
 
 [Flask](https://github.com/Aranchev/Resources/tree/main/README.md#flask)
 
+[HTML](https://github.com/Aranchev/Resources/tree/main/README.md#html-arrow_up)
+
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
 [Other](https://github.com/Aranchev/Resources/edit/main/README.md#other)
@@ -63,6 +65,8 @@
 :movie_camera::cd::floppy_disk: <a href="https://www.youtube.com/watch?v=dam0GPOAvVI&t=1047s">TWTim, Python Website Full Tutorial</a>
 
 :cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a>
+
+## HTML [:arrow_up:](#index)
 
 ## Python [:arrow_up:](#index)
 
