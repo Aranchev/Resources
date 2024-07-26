@@ -3,8 +3,11 @@
 
 ><a href='https://github.com/k1lgor/SoftUni'>Softuni</a>
 
+<a name="index"></a>
+
 <a href='https://github.com/Aranchev/Resources/tree/main?tab=readme-ov-file#python'>Python</a>
 
+[😊](#index)
 
 # Python 
 <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
