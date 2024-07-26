@@ -68,6 +68,8 @@
 
 ## HTML [:arrow_up:](#index)
 
+:page_facing_up: [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet/)
+
 ## Python [:arrow_up:](#index)
 
 :spider_web: <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
@@ -89,9 +91,13 @@
 
 :spider_web::floppy_disk: <a href="https://app.codecrafters.io/catalog">Code Crafters</a>
 
-
-
 ## Cheatsheets [:arrow_up:](#index)
+
+:page_facing_up: [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet/)
+
+:page_facing_up: <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Emoji Cheatsheet</a>
+
+:page_facing_up: <a href="https://gist.github.com/rxaviers/7360908">Emoji Cheatsheet</a> 
 
 ## Other's Resources [:arrow_up:](#index)
 
