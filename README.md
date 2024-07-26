@@ -21,9 +21,11 @@
 
 :man_student: - Course
 
+:cd: - Tutorial
+
 :spider_web: - Web Site
 
-:spider_web::floppy_disk: - Website for Projects
+:movie_camera: - Video
 
 ---
 
@@ -48,6 +50,8 @@
 
 ## Django [:arrow_up:](#index)
 
+:cd::floppy_disk: <a href="https://tutorial.djangogirls.org/en/django_forms/">Django Web App, Djangogirls</a> 
+
 ## Github [:arrow_up:](#index)
 
 :page_facing_up: <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Emoji Cheatsheet</a>
@@ -55,6 +59,10 @@
 :page_facing_up: <a href="https://gist.github.com/rxaviers/7360908">Emoji Cheatsheet</a> 
 
 ## Flask
+
+:movie_camera::cd::floppy_disk: <a href="https://www.youtube.com/watch?v=dam0GPOAvVI&t=1047s">TWTim, Python Website Full Tutorial</a>
+
+:cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a>
 
 ## Python [:arrow_up:](#index)
 
