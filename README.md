@@ -174,8 +174,10 @@
 
 ## Other's Resources [:arrow_up:](#index)
 
-⛏️ [awesome-awesomeness (GitHub)](https://github.com/bayandin/awesome-awesomeness)
+⛏️ [@bayandin/awesome-awesomeness (GitHub)](https://github.com/bayandin/awesome-awesomeness)
 
-⛏️ <a href='https://github.com/k1lgor/awesome-resources'> k1lgor (GitHub)</a>
+[@EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
 
-⛏️<a href="https://github.com/practical-tutorials/project-based-learning">Projects Based Learning (GitHub)</a>
+⛏️ <a href='https://github.com/k1lgor/awesome-resources'>@k1lgor/awesomeresources</a>
+
+⛏️<a href="https://github.com/practical-tutorials/project-based-learning">@practical-tutorials/Projects Based Learning (GitHub)</a>
