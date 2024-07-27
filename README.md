@@ -104,9 +104,6 @@
 
 :page_facing_up:  <a href="https://vim.rtorr.com/">Cheat Sheet rtorr</a>
 
-
-
-
 ## Other
 
 :spider_web::floppy_disk: <a href ="https://workshops.hackclub.com/">Workshops Hackclub</a>
@@ -114,13 +111,22 @@
 
 :spider_web::floppy_disk: <a href="https://app.codecrafters.io/catalog">Code Crafters</a>
 
+<a href="https://softuni.bg/trainings/4058/math-concepts-for-developers-march-2023">
+    <span style="color: #FF6600;"><b>Softuni:</b></span>
+    <span style="color: #FF6600;"><b>Math Course for Dev</b></span> 
+</a>
+
 ## Cheatsheets [:arrow_up:](#index)
 
-:page_facing_up: [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet/)
+<a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">GitHub Emoji Cheatsheet</a>
 
-:page_facing_up: <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Emoji Cheatsheet</a>
+<a href="https://gist.github.com/rxaviers/7360908">GitHub Emoji Cheatsheet</a> 
 
-:page_facing_up: <a href="https://gist.github.com/rxaviers/7360908">Emoji Cheatsheet</a> 
+[HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet/)
+
+[Vim Cheat Sheet devhints](https://devhints.io/vim)
+
+<a href="https://vim.rtorr.com/">Vim Cheat Sheet rtorr</a>
 
 ## Other's Resources [:arrow_up:](#index)
 
