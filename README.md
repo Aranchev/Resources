@@ -37,6 +37,8 @@
 
 [CSS](https://github.com/Aranchev/Resources/tree/main/README.md#css-arrow-up)
 
+[Git](https://github.com/Aranchev/Resources/blob/main/README.md#git)
+
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
 [HTML](https://github.com/Aranchev/Resources/tree/main/README.md#html-arrow_up)
@@ -66,7 +68,7 @@
 
 :cd: [CSS Framework - Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
-## Git
+## Git [:arrow_up:](#index)
 
 ⛏️ [@k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#git)
 
