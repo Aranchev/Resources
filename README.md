@@ -35,7 +35,7 @@
 
 <a name="index"></a>
 
-[CSS](##CSS)
+[CSS](#CSS)
 
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
@@ -62,7 +62,7 @@
 
 ---
 
-## CSS [:arrow up:][#index]
+## CSS [:arrow up:](#index)
 
 :cd: [CSS Framework - Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
