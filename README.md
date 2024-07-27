@@ -47,6 +47,8 @@
 
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
+- [Archives](https://github.com/Aranchev/Resources/tree/main/README.md#archives-arrow_up)
+
 [Spacy](https://github.com/Aranchev/Resources/tree/main/README.md#spacy-arrow_up)
 
 [Vim](https://github.com/Aranchev/Resources/tree/main/README.md#vim-arrow_up)
@@ -106,7 +108,7 @@
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
 
-### Archives 
+### Archives [:arrow_up:](#index)
 
 <a href='https://github.com/k1lgor/SoftUni'>k1lgor Softuni</a>
 
