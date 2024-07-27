@@ -66,7 +66,7 @@
 
 ---
 
-## CSS [:arrow up:](#index)
+## CSS [:arrow_up:](#index)
 
 :cd: [CSS Framework - Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
