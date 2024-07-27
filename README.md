@@ -1,7 +1,3 @@
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
 # Recently Used
 
 :book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a>
@@ -46,6 +42,8 @@
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
 [HTML](https://github.com/Aranchev/Resources/tree/main/README.md#html-arrow_up)
+
+[MySQL](https://github.com/Aranchev/Resources/tree/main/README.md#markdown-arrow_up)
 
 [MySQL](https://github.com/Aranchev/Resources/tree/main/README.md#mysql-arrow_up)
 
@@ -97,6 +95,10 @@
 :movie_camera::cd: [HTML Tutorials For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 
 [HTML5 Please](https://html5please.com/)
+
+## Markdown [:arrow_up:](#index)
+
+⛏️ [k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#markdown)
 
 ## MySQL [:arrow_up:](#index)
 
