@@ -43,6 +43,8 @@
 
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
+[Spacy](https://github.com/Aranchev/Resources/tree/main/README.md#spacy-arrow_up)
+
 [Vim](https://github.com/Aranchev/Resources/tree/main/README.md#vim-arrow_up)
 
 [Other](https://github.com/Aranchev/Resources/edit/main/README.md#other)
@@ -96,6 +98,10 @@
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
 
+## Spacy [:arrow_up:](#index)
+
+🎥 [Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ&t=5373s)
+
 ## Vim [:arrow_up:](#index)
 
 :blue_book: [Vim Help (official website)](https://vimhelp.org/)
@@ -109,6 +115,8 @@
 :man_student: [Copywriting Creative (Softuni)](https://digital.softuni.bg/trainings/3769/copywriting-secrets-january-2024#lesson-23872)
 
 :spider_web::floppy_disk: <a href="https://app.codecrafters.io/catalog">Code Crafters</a>
+
+:spider_web:[Freecodecamp](https://www.freecodecamp.org/)
 
 :man_student: [Math Concepts for Developers](https://softuni.bg/trainings/4058/math-concepts-for-developers-march-2023)
 - [01. HIGH-SCHOOL MATHS (Youtube Lecture)](https://www.youtube.com/watch?v=utiUpEkH6lY)
