@@ -35,7 +35,7 @@
 
 <a name="index"></a>
 
-[CSS](https://github.com/Aranchev/Resources/tree/main/README.md#css-arrow-up)
+[CSS](https://github.com/Aranchev/Resources/tree/main/README.md#css-arrow_up)
 
 [Git]( https://github.com/Aranchev/Resources/blob/main/README.md#git-arrow_up)
 
