@@ -108,7 +108,11 @@
 
 ### Flask [:arrow_up:](#index)
 
+📘 [Documentation (official)](https://flask.palletsprojects.com/en/2.2.x/)
+
 :movie_camera::cd::floppy_disk: <a href="https://www.youtube.com/watch?v=dam0GPOAvVI&t=1047s">TWTim, Python Website Full Tutorial</a> :cool:
+
+:movie_camera::cd::floppy_disk: [TWTim Flask Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) :cool:
 
 :cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a> :cool:
 
