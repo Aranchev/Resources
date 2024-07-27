@@ -160,6 +160,6 @@
 
 ⛏️ [awesome-awesomeness (GitHub)](https://github.com/bayandin/awesome-awesomeness)
 
-⛏️ <a href='https://github.com/k1lgor/awesome-resources'> k1lgor Resources</a>
+⛏️ <a href='https://github.com/k1lgor/awesome-resources'> k1lgor (GitHub)</a>
 
-⛏️<a href="https://github.com/practical-tutorials/project-based-learning">Projects Based Learning (GitHub resources)</a>
+⛏️<a href="https://github.com/practical-tutorials/project-based-learning">Projects Based Learning (GitHub)</a>
