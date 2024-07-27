@@ -41,6 +41,8 @@
 
 [HTML](https://github.com/Aranchev/Resources/tree/main/README.md#html-arrow_up)
 
+[MySQL](https://github.com/Aranchev/Resources/tree/main/README.md#mysql-arrow_up)
+
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
 [Spacy](https://github.com/Aranchev/Resources/tree/main/README.md#spacy-arrow_up)
@@ -83,6 +85,10 @@
 :movie_camera::cd: [HTML Tutorials For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 
 [HTML5 Please](https://html5please.com/)
+
+## MySQL [:arrow_up:](#index)
+
+:man_student: [MySQL септември 2024 (Softuni)](https://softuni.bg/trainings/4709/mysql-september-2024)
 
 ## Python [:arrow_up:](#index)
 
