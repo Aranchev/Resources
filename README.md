@@ -21,6 +21,8 @@
 
 :man_student: - Course
 
+⛏️ - Resources
+
 :cd: - Tutorial
 
 :spider_web: - Web Site
@@ -150,7 +152,9 @@
 
 ## Other's Resources [:arrow_up:](#index)
 
-<a href='https://github.com/k1lgor?tab=repositories'>k1gor's Github</a>
+⛏️ [awesome-awesomeness (GitHub)](https://github.com/bayandin/awesome-awesomeness)
+
+⛏️ <a href='https://github.com/k1lgor?tab=repositories'>k1gor's (Github)</a>
 
 ><a href='https://github.com/k1lgor/awesome-resources'> GitHub Resources</a>
 
