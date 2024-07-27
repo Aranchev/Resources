@@ -106,6 +106,10 @@
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
 
+### Archives 
+
+<a href='https://github.com/k1lgor/SoftUni'>k1lgor Softuni</a>
+
 ## Spacy [:arrow_up:](#index)
 
 🎥 [Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ&t=5373s)
@@ -154,10 +158,6 @@
 
 ⛏️ [awesome-awesomeness (GitHub)](https://github.com/bayandin/awesome-awesomeness)
 
-⛏️ <a href='https://github.com/k1lgor?tab=repositories'>k1gor's (Github)</a>
+⛏️ <a href='https://github.com/k1lgor/awesome-resources'> k1lgor Resources</a>
 
-><a href='https://github.com/k1lgor/awesome-resources'> GitHub Resources</a>
-
-><a href='https://github.com/k1lgor/SoftUni'>Softuni</a>
-
-<a href="https://github.com/practical-tutorials/project-based-learning">Projects Based Learning (GitHub resources</a>
+⛏️<a href="https://github.com/practical-tutorials/project-based-learning">Projects Based Learning (GitHub resources)</a>
