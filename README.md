@@ -66,11 +66,17 @@
 
 :cd: [CSS Framework - Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
+## Git
+
+⛏️ [@k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#git)
+
 ## Github [:arrow_up:](#index)
 
 :page_facing_up: <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Emoji Cheatsheet</a>
 
 :page_facing_up: <a href="https://gist.github.com/rxaviers/7360908">Emoji Cheatsheet</a> 
+
+💿 [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/) 🆒
 
 ## HTML [:arrow_up:](#index)
 
@@ -92,19 +98,27 @@
 
 ## Python [:arrow_up:](#index)
 
+
+
 :spider_web: <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
 
-:blue_book: <a href="https://docs.python.org/3/index.html">Python 3.12.4 documentation</a>
+⛏️ [@EbookFoundation/free-programing/books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python)
 
 - <a href="https://docs.python.org/3/library/functions.html">Built-in Functions</a>
 
 :spider_web: <a href="https://www.fullstackpython.com/">Full Stack Python</a>
 
-:book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a> :cool:
+📖 <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a> :cool:
+
+📄 [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/) :cool:
+
+📖 [Learn Python the Right Way](https://learnpythontherightway.com/)
 
 ⛏️ [@quobit](https://github.com/quobit/awesome-python-in-education)
 
 ⛏️ [@trekhleb Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) :cool:
+
+:blue_book: <a href="https://docs.python.org/3/index.html">Python 3.12.4 documentation</a>
 
 ⛏️ [@vinta](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
 
@@ -115,6 +129,8 @@
 ### Flask [:arrow_up:](#index)
 
 📘 [Documentation (official)](https://flask.palletsprojects.com/en/2.2.x/)
+
+
 
 :movie_camera::cd::floppy_disk: <a href="https://www.youtube.com/watch?v=dam0GPOAvVI&t=1047s">TWTim, Python Website Full Tutorial</a> :cool:
 
@@ -176,7 +192,7 @@
 
 ⛏️ [@bayandin/awesome-awesomeness (GitHub)](https://github.com/bayandin/awesome-awesomeness)
 
-[@EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
+⛏️ [@EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
 
 ⛏️ <a href='https://github.com/k1lgor/awesome-resources'>@k1lgor/awesomeresources</a>
 
