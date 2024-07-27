@@ -60,21 +60,11 @@
 
 ---
 
-## Django [:arrow_up:](#index)
-
-:cd::floppy_disk: <a href="https://tutorial.djangogirls.org/en/django_forms/">Django Web App, Djangogirls</a> 
-
 ## Github [:arrow_up:](#index)
 
 :page_facing_up: <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Emoji Cheatsheet</a>
 
 :page_facing_up: <a href="https://gist.github.com/rxaviers/7360908">Emoji Cheatsheet</a> 
-
-## Flask
-
-:movie_camera::cd::floppy_disk: <a href="https://www.youtube.com/watch?v=dam0GPOAvVI&t=1047s">TWTim, Python Website Full Tutorial</a>
-
-:cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a>
 
 ## HTML [:arrow_up:](#index)
 
@@ -104,9 +94,23 @@
 
 :spider_web: <a href="https://www.fullstackpython.com/">Full Stack Python</a>
 
-:book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a>
+:book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a> :cool:
+
+## Django [:arrow_up:](#index)
+
+:cd::floppy_disk: <a href="https://tutorial.djangogirls.org/en/django_forms/">Django Web App, Djangogirls</a> 
+
+### Flask [:arrow_up:](#index)
+
+:movie_camera::cd::floppy_disk: <a href="https://www.youtube.com/watch?v=dam0GPOAvVI&t=1047s">TWTim, Python Website Full Tutorial</a> :cool:
+
+:cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a> :cool:
+
+⛏️ [Playground and Cheatsheet for Learning Python @trekhleb](https://github.com/trekhleb/learn-python) :cool:
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
+
+⛏️ [Awesome Python (vinta)](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
 
 ### Archives [:arrow_up:](#index)
 
@@ -118,7 +122,7 @@
 
 ## Vim [:arrow_up:](#index)
 
-:blue_book: [Vim Help (official website)](https://vimhelp.org/)
+:blue_book: [Vim Help (official website)](https://vimhelp.org/) :cool:
 
 :page_facing_up: [Cheat Sheet devhints](https://devhints.io/vim)
 
