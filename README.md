@@ -37,7 +37,7 @@
 
 [CSS](https://github.com/Aranchev/Resources/tree/main/README.md#css-arrow-up)
 
-[Git](https://github.com/Aranchev/Resources/blob/main/README.md#git)
+[Git](https://github.com/Aranchev/Resources/tree/main/README.md#git)
 
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
