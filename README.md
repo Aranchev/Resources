@@ -108,6 +108,8 @@
 
 :spider_web: <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
 
+💿📖 [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180331085022/http://python.net:80/~goodger/projects/pycon/2007/idiomatic/handout.html) :cool:
+
 ⛏️ [@EbookFoundation/free-programing/books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python)
 
 - <a href="https://docs.python.org/3/library/functions.html">Built-in Functions</a>
@@ -125,6 +127,8 @@
 ⛏️ [@trekhleb Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) :cool:
 
 :blue_book: <a href="https://docs.python.org/3/index.html">Python 3.12.4 documentation</a>
+
+📄 [Python Notes for Proffesionals](https://goalkicker.com/PythonBook/)
 
 ⛏️ [@vinta](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
 
