@@ -110,7 +110,7 @@
 
 :cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a> :cool:
 
-⛏️ [Playground and Cheatsheet for Learning Python @trekhleb](https://github.com/trekhleb/learn-python) :cool:
+⛏️ [@trekhleb Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) :cool:
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
 
