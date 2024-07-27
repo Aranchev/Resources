@@ -98,6 +98,8 @@
 
 ⛏️ [@quobit](https://github.com/quobit/awesome-python-in-education)
 
+⛏️ [@trekhleb Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) :cool:
+
 ⛏️ [@vinta](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
 
 ### Django [:arrow_up:](#index)
@@ -109,8 +111,6 @@
 :movie_camera::cd::floppy_disk: <a href="https://www.youtube.com/watch?v=dam0GPOAvVI&t=1047s">TWTim, Python Website Full Tutorial</a> :cool:
 
 :cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a> :cool:
-
-⛏️ [@trekhleb Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) :cool:
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
 
