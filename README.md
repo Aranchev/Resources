@@ -116,6 +116,12 @@
     <span style="color: #FF6600;"><b>Math Course for Dev</b></span> 
 </a>
 
+<div style="margin-left: 40px;">
+    <a href="https://www.youtube.com/watch?v=utiUpEkH6lY">
+        <span style="color: #FF6600;"><b>01. HIGH-SCHOOL MATHS (Youtube Lecture)</b></span> 
+    </a>
+<div/>
+
 ## Cheatsheets [:arrow_up:](#index)
 
 <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">GitHub Emoji Cheatsheet</a>
