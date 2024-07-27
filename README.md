@@ -43,7 +43,7 @@
 
 [HTML](https://github.com/Aranchev/Resources/tree/main/README.md#html-arrow_up)
 
-[MySQL](https://github.com/Aranchev/Resources/tree/main/README.md#markdown-arrow_up)
+[Markdown](https://github.com/Aranchev/Resources/tree/main/README.md#markdown-arrow_up)
 
 [MySQL](https://github.com/Aranchev/Resources/tree/main/README.md#mysql-arrow_up)
 
@@ -98,15 +98,13 @@
 
 ## Markdown [:arrow_up:](#index)
 
-⛏️ [k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#markdown)
+⛏️ [@k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#markdown)
 
 ## MySQL [:arrow_up:](#index)
 
 :man_student: [MySQL септември 2024 (Softuni)](https://softuni.bg/trainings/4709/mysql-september-2024)
 
 ## Python [:arrow_up:](#index)
-
-
 
 :spider_web: <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
 
