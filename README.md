@@ -112,13 +112,13 @@
 
 ⛏️ [Awesome Python (vinta)](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
 
+### Spacy [:arrow_up:](#index)
+
+🎥 [Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ&t=5373s)
+
 ### Archives [:arrow_up:](#index)
 
 <a href='https://github.com/k1lgor/SoftUni'>k1lgor Softuni</a>
-
-## Spacy [:arrow_up:](#index)
-
-🎥 [Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ&t=5373s)
 
 ## Vim [:arrow_up:](#index)
 
