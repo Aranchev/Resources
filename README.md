@@ -1,3 +1,7 @@
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 # Recently Used
 
 :book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a>
