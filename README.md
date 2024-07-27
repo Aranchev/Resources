@@ -35,10 +35,6 @@
 
 <a name="index"></a>
 
-[Django](https://github.com/Aranchev/Resources/tree/main/README.md#django-arrow_up)
-
-[Flask](https://github.com/Aranchev/Resources/tree/main/README.md#flask)
-
 [Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
 [HTML](https://github.com/Aranchev/Resources/tree/main/README.md#html-arrow_up)
@@ -47,7 +43,11 @@
 
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
-- [Archives](https://github.com/Aranchev/Resources/tree/main/README.md#archives-arrow_up)
+- [Django](https://github.com/Aranchev/Resources/tree/main/README.md#django-arrow_up)
+
+- [Flask](https://github.com/Aranchev/Resources/tree/main/README.md#flask)
+
+>> [Archives](https://github.com/Aranchev/Resources/tree/main/README.md#archives-arrow_up)
 
 [Spacy](https://github.com/Aranchev/Resources/tree/main/README.md#spacy-arrow_up)
 
@@ -96,7 +96,7 @@
 
 :book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a> :cool:
 
-## Django [:arrow_up:](#index)
+### Django [:arrow_up:](#index)
 
 :cd::floppy_disk: <a href="https://tutorial.djangogirls.org/en/django_forms/">Django Web App, Djangogirls</a> 
 
