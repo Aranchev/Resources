@@ -47,7 +47,7 @@
 
 - [Flask](https://github.com/Aranchev/Resources/tree/main/README.md#flask)
 
->> [Archives](https://github.com/Aranchev/Resources/tree/main/README.md#archives-arrow_up)
+> [Archives](https://github.com/Aranchev/Resources/tree/main/README.md#archives-arrow_up)
 
 [Spacy](https://github.com/Aranchev/Resources/tree/main/README.md#spacy-arrow_up)
 
