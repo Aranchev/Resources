@@ -96,6 +96,10 @@
 
 :book: <a href="https://automatetheboringstuff.com/">How to Automate Boring Stuff Python</a> :cool:
 
+⛏️ [@quobit](https://github.com/quobit/awesome-python-in-education)
+
+⛏️ [@vinta](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
+
 ### Django [:arrow_up:](#index)
 
 :cd::floppy_disk: <a href="https://tutorial.djangogirls.org/en/django_forms/">Django Web App, Djangogirls</a> 
@@ -109,8 +113,6 @@
 ⛏️ [Playground and Cheatsheet for Learning Python @trekhleb](https://github.com/trekhleb/learn-python) :cool:
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
-
-⛏️ [Awesome Python (vinta)](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
 
 ### Spacy [:arrow_up:](#index)
 
