@@ -54,9 +54,9 @@
 [Vim](https://github.com/Aranchev/Resources/tree/main/README.md#vim-arrow_up)
 
 [Other](https://github.com/Aranchev/Resources/edit/main/README.md#other)
-> [Cheatsheets](https://github.com/Aranchev/Resources/tree/main/README.md#cheatsheets-arrow_up)
+- [Cheatsheets](https://github.com/Aranchev/Resources/tree/main/README.md#cheatsheets-arrow_up)
 
-> [Other's Resources](https://github.com/Aranchev/Resources/tree/main/README.md#others-resources-arrow_up)
+- [Other's Resources](https://github.com/Aranchev/Resources/tree/main/README.md#others-resources-arrow_up)
 
 ---
 
