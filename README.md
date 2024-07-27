@@ -35,9 +35,9 @@
 
 [Django](https://github.com/Aranchev/Resources/tree/main/README.md#django-arrow_up)
 
-[Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
-
 [Flask](https://github.com/Aranchev/Resources/tree/main/README.md#flask)
+
+[Github](https://github.com/Aranchev/Resources/tree/main/README.md#github-arrow_up)
 
 [HTML](https://github.com/Aranchev/Resources/tree/main/README.md#html-arrow_up)
 
