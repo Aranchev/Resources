@@ -106,21 +106,21 @@
 
 ## Other
 
-:spider_web::floppy_disk: <a href ="https://workshops.hackclub.com/">Workshops Hackclub</a>
-- <a href="https://workshops.hackclub.com/personal_website/">Personal Website</a>
+:man_student: [Copywriting Creative (Softuni)](https://digital.softuni.bg/trainings/3769/copywriting-secrets-january-2024#lesson-23872)
 
 :spider_web::floppy_disk: <a href="https://app.codecrafters.io/catalog">Code Crafters</a>
 
-<a href="https://softuni.bg/trainings/4058/math-concepts-for-developers-march-2023">
-    <span style="color: #FF6600;"><b>Softuni:</b></span>
-    <span style="color: #FF6600;"><b>Math Course for Dev</b></span> 
-</a>
+:man_student: [Math Concepts for Developers](https://softuni.bg/trainings/4058/math-concepts-for-developers-march-2023)
+- [01. HIGH-SCHOOL MATHS (Youtube Lecture)](https://www.youtube.com/watch?v=utiUpEkH6lY)
+- [theme archive](https://github.com/momchilantonov/SoftUni-Math-Concepts-For-Developers-February-2021/tree/main/High-School%20Maths)
+- [archive](https://github.com/momchilantonov/SoftUni-Math-Concepts-For-Developers-February-2021/tree/main/High-School%20Maths/Exercise)
 
-<div style="margin-left: 40px;">
-    <a href="https://www.youtube.com/watch?v=utiUpEkH6lY">
-        <span style="color: #FF6600;"><b>01. HIGH-SCHOOL MATHS (Youtube Lecture)</b></span> 
-    </a>
-<div/>
+:man_student: [Softuni Courses](https://softuni.bg/trainings/opencourses)
+
+:man_student: [QA Basics (Softuni)](https://softuni.bg/trainings/4357/qa-basics-november-2023#lesson-64690)
+  
+:spider_web::floppy_disk: <a href ="https://workshops.hackclub.com/">Workshops Hackclub</a>
+- <a href="https://workshops.hackclub.com/personal_website/">Personal Website</a>
 
 ## Cheatsheets [:arrow_up:](#index)
 
