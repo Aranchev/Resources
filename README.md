@@ -45,7 +45,7 @@
 
 - [Django](https://github.com/Aranchev/Resources/tree/main/README.md#django-arrow_up)
 
-- [Flask](https://github.com/Aranchev/Resources/tree/main/README.md#flask)
+- [Flask](https://github.com/Aranchev/Resources/blob/main/README.md#flask-arrow_up)
 
 - [Spacy](https://github.com/Aranchev/Resources/tree/main/README.md#spacy-arrow_up)
 
