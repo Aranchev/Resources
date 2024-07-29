@@ -146,6 +146,8 @@ How to Build Spell/Grammar Checker with Python
 
 ⛏️ [@vinta](https://github.com/vinta/awesome-python?tab=readme-ov-file#web-frameworks)
 
+🕸️ [Tutorial's point](https://www.tutorialspoint.com/python/index.htm)
+
 ### Django [:arrow_up:](#index)
 
 :cd::floppy_disk: <a href="https://tutorial.djangogirls.org/en/django_forms/">Django Web App, Djangogirls</a> 
