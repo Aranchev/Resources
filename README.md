@@ -54,6 +54,8 @@
 - [Django](https://github.com/Aranchev/Resources/tree/main/README.md#django-arrow_up)
 
 - [Flask](https://github.com/Aranchev/Resources/blob/main/README.md#flask-arrow_up)
+  
+- [Pylatex](https://github.com/Aranchev/Resources/blob/main/README.md#pylatex-arrow_up)
 
 > [Archives](https://github.com/Aranchev/Resources/tree/main/README.md#archives-arrow_up)
 
@@ -155,6 +157,10 @@
 :cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a> :cool:
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
+
+### Pylatex [:arrow_up:](#index)
+
+[Pylatex module in python](https://www.geeksforgeeks.org/pylatex-module-in-python/)
 
 ### Archives [:arrow_up:](#index)
 
