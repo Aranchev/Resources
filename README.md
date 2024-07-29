@@ -47,6 +47,8 @@
 
 [MySQL](https://github.com/Aranchev/Resources/tree/main/README.md#mysql-arrow_up)
 
+[NLP](https://github.com/Aranchev/Resources/tree/main/README.md#nlp-arrow_up)
+
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
 - [Django](https://github.com/Aranchev/Resources/tree/main/README.md#django-arrow_up)
@@ -103,6 +105,8 @@
 ## MySQL [:arrow_up:](#index)
 
 :man_student: [MySQL септември 2024 (Softuni)](https://softuni.bg/trainings/4709/mysql-september-2024)
+
+## NLP [:arrow_up:](#index)
 
 ## Python [:arrow_up:](#index)
 
