@@ -51,6 +51,8 @@ How to Build Spell/Grammar Checker with Python
 
 [NLP](https://github.com/Aranchev/Resources/tree/main/README.md#nlp-arrow_up)
 
+[Powershell](https://github.com/Aranchev/Resources/tree/main/README.md#powershell-arrow_up)
+
 [Python](https://github.com/Aranchev/Resources/tree/main/README.md#python-arrow_up)
 
 - [Django](https://github.com/Aranchev/Resources/tree/main/README.md#django-arrow_up)
@@ -117,6 +119,8 @@ How to Build Spell/Grammar Checker with Python
 ⛏️ [@keon/awesome-nlp](https://github.com/keon/awesome-nlp)
 
 > [Tutorials](https://github.com/keon/awesome-nlp#tutorials)
+
+## Powershell [:arrow_up:](#index)
 
 ## Python [:arrow_up:](#index)
 
