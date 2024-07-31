@@ -114,6 +114,8 @@ How to Build Spell/Grammar Checker with Python
 
 ⛏️ [@ rossant/awesome math](https://github.com/rossant/awesome-math)
 
+🎥 [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
 
 ## MySQL [:arrow_up:](#index)
 
