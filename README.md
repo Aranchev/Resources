@@ -47,6 +47,8 @@ How to Build Spell/Grammar Checker with Python
 
 [Markdown](https://github.com/Aranchev/Resources/tree/main/README.md#markdown-arrow_up)
 
+[Math](https://github.com/Aranchev/Resources/tree/main/README.md#math-arrow_up)
+
 [MySQL](https://github.com/Aranchev/Resources/tree/main/README.md#mysql-arrow_up)
 
 [NLP](https://github.com/Aranchev/Resources/tree/main/README.md#nlp-arrow_up)
@@ -105,6 +107,9 @@ How to Build Spell/Grammar Checker with Python
 [HTML5 Please](https://html5please.com/)
 
 ## Markdown [:arrow_up:](#index)
+
+## Math [:arrow_up:](#index)
+
 
 ⛏️ [@k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#markdown)
 
