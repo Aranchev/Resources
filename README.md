@@ -108,10 +108,12 @@ How to Build Spell/Grammar Checker with Python
 
 ## Markdown [:arrow_up:](#index)
 
+⛏️ [@k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#markdown)
+
 ## Math [:arrow_up:](#index)
 
+⛏️ [@ rossant/awesome math](https://github.com/rossant/awesome-math)
 
-⛏️ [@k1lgor](https://github.com/k1lgor/awesome-resources?tab=readme-ov-file#markdown)
 
 ## MySQL [:arrow_up:](#index)
 
