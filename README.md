@@ -96,6 +96,8 @@ How to Build Spell/Grammar Checker with Python
 
 :page_facing_up: [HTML CheatSheat](https://htmlcheatsheet.com/)
 
+[HTML Markup](https://en.wikipedia.org/wiki/HTML#Markup)
+
 [Tutorial's Point](https://www.tutorialspoint.com/html/html_comments.htm)
 
 📘 [HTML Documentation for Beginners](https://html.com/)
