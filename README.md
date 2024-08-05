@@ -78,7 +78,11 @@ How to Build Spell/Grammar Checker with Python
 
 ## Algorithms [:arrow_up:](#index)
 
+⛏️ [gaerae/awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education)
+
 ⛏️ [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+
+
 
 ## CSS [:arrow_up:](#index)
 
