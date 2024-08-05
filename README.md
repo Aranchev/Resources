@@ -37,6 +37,8 @@ How to Build Spell/Grammar Checker with Python
 
 <a name="index"></a>
 
+[Algorithms](https://github.com/Aranchev/Resources/tree/main/README.md#algorithms-arrow_up)
+
 [CSS](https://github.com/Aranchev/Resources/tree/main/README.md#css-arrow_up)
 
 [Git]( https://github.com/Aranchev/Resources/blob/main/README.md#git-arrow_up)
@@ -73,6 +75,10 @@ How to Build Spell/Grammar Checker with Python
 - [Other's Resources](https://github.com/Aranchev/Resources/tree/main/README.md#others-resources-arrow_up)
 
 ---
+
+## Algorithms [:arrow_up:](#index)
+
+⛏️ [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 
 ## CSS [:arrow_up:](#index)
 
