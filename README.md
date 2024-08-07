@@ -197,7 +197,7 @@ How to Build Spell/Grammar Checker with Python
 
 [Pylatex module in python](https://www.geeksforgeeks.org/pylatex-module-in-python/)
 
-### Selenium[:arrow_up:](#index)
+### Selenium [:arrow_up:](#index)
 
 ⛏️ [christian-bromann/awesome-selenium](https://github.com/Aranchev/Resources/tree/main/README.md#seleniumarrow_up)
 
