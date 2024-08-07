@@ -199,7 +199,7 @@ How to Build Spell/Grammar Checker with Python
 
 ### Selenium[:arrow_up:](#index)
 
-⛏️ [christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium?tab=readme-ov-file#python)
+⛏️ [christian-bromann/awesome-selenium](https://github.com/Aranchev/Resources/tree/main/README.md#seleniumarrow_up)
 
 ### Archives [:arrow_up:](#index)
 
