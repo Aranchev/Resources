@@ -66,6 +66,8 @@ How to Build Spell/Grammar Checker with Python
 - [Pylatex](https://github.com/Aranchev/Resources/blob/main/README.md#pylatex-arrow_up)
 
 - [Selenium](https://github.com/Aranchev/Resources/blob/main/README.md#selenium-arrow_up)
+  
+- [Helium](https://github.com/Aranchev/Resources/tree/main/README.md#helium-arrow_up)
 
 > [Archives](https://github.com/Aranchev/Resources/tree/main/README.md#archives-arrow_up)
 
@@ -192,6 +194,10 @@ How to Build Spell/Grammar Checker with Python
 :cd::floppy_disk: <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg, The Flask Mega-Tutorial</a> :cool:
 
 :spider_web: <a href="https://pypi.org/">PyPI (Python Package Index)</a>
+
+### Helium [:arrow_up:](#index)
+
+⛏️ [mherrmann/helium](https://github.com/mherrmann/helium)
 
 ### Pylatex [:arrow_up:](#index)
 
