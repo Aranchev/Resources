@@ -209,6 +209,8 @@ How to Build Spell/Grammar Checker with Python
 
 ⛏️ [christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium?tab=readme-ov-file#python)
 
+[selenium-python.readthedocs](https://selenium-python.readthedocs.io/)
+
 🎥 [TWTIM Selenium Tutorial](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)
 
 ### Archives [:arrow_up:](#index)
