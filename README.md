@@ -69,6 +69,8 @@ How to Build Spell/Grammar Checker with Python
   
 - [Pylatex](https://github.com/Aranchev/Resources/blob/main/README.md#pylatex-arrow_up)
 
+- [PyAutoGUI](https://github.com/Aranchev/Resources/blob/main/README.md#pyautogui-arrow_up)
+
 - [Selenium](https://github.com/Aranchev/Resources/blob/main/README.md#selenium-arrow_up)
   
 - [Helium](https://github.com/Aranchev/Resources/tree/main/README.md#helium-arrow_up)
@@ -212,6 +214,10 @@ How to Build Spell/Grammar Checker with Python
 ### Pylatex [:arrow_up:](#index)
 
 [Pylatex module in python](https://www.geeksforgeeks.org/pylatex-module-in-python/)
+
+### PyAutoGUI
+
+[Python Automation with PyAutoGUI | Full Course With Projects!](https://www.youtube.com/watch?v=3PekU8OGBCA)
 
 ### Selenium [:arrow_up:](#index)
 
