@@ -102,6 +102,8 @@ How to Build Spell/Grammar Checker with Python
 
 [Gifs for Github](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
 
+[Doc](https://docs.github.com/en)
+
 :page_facing_up: <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Emoji Cheatsheet</a>
 
 :page_facing_up: <a href="https://gist.github.com/rxaviers/7360908">Emoji Cheatsheet</a> 
