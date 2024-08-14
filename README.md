@@ -1,3 +1,5 @@
+requirements.txt, wut?
+
 How to Build Spell/Grammar Checker with Python
 
 [For Resume](https://www.youtube.com/watch?v=BXAeMICmUSQ&t=91s)
