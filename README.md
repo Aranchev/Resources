@@ -215,7 +215,7 @@ How to Build Spell/Grammar Checker with Python
 
 [Pylatex module in python](https://www.geeksforgeeks.org/pylatex-module-in-python/)
 
-### PyAutoGUI
+### PyAutoGUI [:arrow_up:](#index)
 
 [Python Automation with PyAutoGUI | Full Course With Projects!](https://www.youtube.com/watch?v=3PekU8OGBCA)
 
