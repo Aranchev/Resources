@@ -163,6 +163,8 @@ How to Build Spell/Grammar Checker with Python
 
 🎥 [Top 10 PowerShell Commands for Beginners](https://www.youtube.com/watch?v=MP_UR5iWfZQ)
 
+📖 [Powershell in Action](https://github.com/rootusercop/Free-DevOps-Books-1/blob/master/book/Windows%20PowerShell%20in%20Action.pdf)
+
 ## Python [:arrow_up:](#index)
 
 :spider_web: <a href="https://awesome-python.com/">Awesome Python</a> -- frameworks, libraries, software and resources
