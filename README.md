@@ -68,6 +68,8 @@ How to Build Spell/Grammar Checker with Python
 
 - [Flask](https://github.com/Aranchev/Resources/blob/main/README.md#flask-arrow_up)
   
+- [Pdb](https://github.com/Aranchev/Resources/blob/main/README.md#pdb-arrow_up)
+  
 - [Pylatex](https://github.com/Aranchev/Resources/blob/main/README.md#pylatex-arrow_up)
 
 - [PyAutoGUI](https://github.com/Aranchev/Resources/blob/main/README.md#pyautogui-arrow_up)
@@ -215,6 +217,8 @@ How to Build Spell/Grammar Checker with Python
 ### Helium [:arrow_up:](#index)
 
 ⛏️ [mherrmann/helium](https://github.com/mherrmann/helium)
+
+### Pdb [:arrow_up:](#index)
 
 ### Pylatex [:arrow_up:](#index)
 
