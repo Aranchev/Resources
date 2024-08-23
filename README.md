@@ -220,6 +220,12 @@ How to Build Spell/Grammar Checker with Python
 
 ### Pdb [:arrow_up:](#index)
 
+[Pdb Doc](https://docs.python.org/3/library/pdb.html)
+
+[Pdb Cheatsheet](https://ugoproto.github.io/ugo_py_doc/pdf/Python-Debugger-Cheatsheet.pdf)
+
+[spiside/pdb-tutorial](https://github.com/spiside/pdb-tutorial)
+
 ### Pylatex [:arrow_up:](#index)
 
 [Pylatex module in python](https://www.geeksforgeeks.org/pylatex-module-in-python/)
@@ -275,6 +281,8 @@ How to Build Spell/Grammar Checker with Python
 <a href="https://gist.github.com/rxaviers/7360908">GitHub Emoji Cheatsheet</a> 
 
 [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet/)
+
+[Pdb Cheatsheet](https://ugoproto.github.io/ugo_py_doc/pdf/Python-Debugger-Cheatsheet.pdf)
 
 [Vim Cheat Sheet devhints](https://devhints.io/vim)
 
