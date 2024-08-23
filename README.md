@@ -117,6 +117,8 @@ How to Build Spell/Grammar Checker with Python
 
 💿 [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/) 🆒
 
+[tandpfun/skill-icons](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)
+
 
 
 ## HTML [:arrow_up:](#index)
