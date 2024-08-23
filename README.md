@@ -1,8 +1,10 @@
+<!--
 requirements.txt, wut?
 
 How to Build Spell/Grammar Checker with Python
 
 [For Resume](https://www.youtube.com/watch?v=BXAeMICmUSQ&t=91s)
+
 
 # Recently Used
 
@@ -11,8 +13,7 @@ How to Build Spell/Grammar Checker with Python
 :book: <a href ="https://python-book.softuni.bg/">Основи на програмирането с Python</a>
 
 :man_student: <a href='https://github.com/k1lgor/SoftUni'>k1gor Softuni</a>
-
----
+-->
 
 # Legend
 
