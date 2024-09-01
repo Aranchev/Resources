@@ -70,9 +70,11 @@ How to Build Spell/Grammar Checker with Python
   
 - [Pdb](https://github.com/Aranchev/Resources/blob/main/README.md#pdb-arrow_up)
   
+- [PyAutoGUI](https://github.com/Aranchev/Resources/blob/main/README.md#pyautogui-arrow_up)
+  
 - [Pylatex](https://github.com/Aranchev/Resources/blob/main/README.md#pylatex-arrow_up)
 
-- [PyAutoGUI](https://github.com/Aranchev/Resources/blob/main/README.md#pyautogui-arrow_up)
+- [PyTest](https://github.com/Aranchev/Resources/blob/main/README.md#pytest-arrow_up)
 
 - [Selenium](https://github.com/Aranchev/Resources/blob/main/README.md#selenium-arrow_up)
   
@@ -239,6 +241,10 @@ How to Build Spell/Grammar Checker with Python
 ### PyAutoGUI [:arrow_up:](#index)
 
 [Python Automation with PyAutoGUI | Full Course With Projects!](https://www.youtube.com/watch?v=3PekU8OGBCA)
+
+### PyTest [:arrow_up:](#index)
+
+[Pytest Tutorial – How to Test Python Code](https://www.youtube.com/watch?v=cHYq1MRoyI0)
 
 ### Selenium [:arrow_up:](#index)
 
