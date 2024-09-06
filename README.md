@@ -244,7 +244,15 @@ How to Build Spell/Grammar Checker with Python
 
 ### PyTest [:arrow_up:](#index)
 
+[Pytest for Beginners](https://testdriven.io/blog/pytest-for-beginners/)
+
 [Pytest Tutorial – How to Test Python Code](https://www.youtube.com/watch?v=cHYq1MRoyI0)
+
+[Test-Driven Development in Python: A Beginner's Guide](https://www.datacamp.com/tutorial/test-driven-development-in-python)
+
+[Test Driven Development with pytest](https://stackabuse.com/test-driven-development-with-pytest/)
+
+[TDD in Python with pytest - Part 1](https://www.thedigitalcatonline.com/blog/2020/09/10/tdd-in-python-with-pytest-part-1/)
 
 ### Selenium [:arrow_up:](#index)
 
